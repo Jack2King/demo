@@ -1,0 +1,8 @@
+name = Demo
+description = Computed Field & EMW
+core = 7.x
+package = Jungle
+
+dependencies[] = computed_field
+dependencies[] = entityreference
+dependencies[] = ctools
